@@ -2,7 +2,7 @@ name: Controllo PS5 Pro
 
 on:
   schedule:
-    - cron: "*/5 * * * *"   # ogni 5 minuti (minimo consentito)
+    - cron: "3-58/5 * * * *"   # ogni 5 minuti (minimo consentito)
   workflow_dispatch:         # permette di lanciarlo a mano per provarlo
 
 permissions:
