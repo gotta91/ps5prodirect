@@ -14,7 +14,7 @@ HEADERS = {
                   "(KHTML, like Gecko) Chrome/126.0 Safari/537.36",
     "Accept-Language": "it-IT,it;q=0.9",
 }
-ESAURITO = ("Non disponibile per l'acquisto", "Scorte attualmente esaurite")
+ESAURITO = ("xxxx")
 
 
 def telegram(testo):
